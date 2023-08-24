@@ -1,0 +1,11 @@
+.filterLabel {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  margin-bottom: 15px;
+}
+
+.filterInput {
+  width: 200px;
+}

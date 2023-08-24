@@ -1,0 +1,17 @@
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.contactLabel {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 200px;
+}
+
+.contactButton {
+  width: 100px;
+}

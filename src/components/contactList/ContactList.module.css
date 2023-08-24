@@ -1,0 +1,12 @@
+.contactItem {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+.contactButton {
+  padding: 2px 10px;
+}
